@@ -9,26 +9,19 @@ I'm a 2nd-Year BSIT College Student at STI College Philippines - Aim High! ✊
 - ☕ Coffee lover, turning it into code!
 - 🏆 2021 Goals: Contribute and publish more repositories and projects!
 - 🥇 Code Fest Champion - Tagisan ng Talino 2020 Local Level
+- 🌐 My [Personal Website](https://arvinrhen.me)
 - 🎯 Learning is the will of thy self.
-
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-***🔧 Technologies***
+### 🔧 Technologies
 
 ![JAVA](https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png)![C#](https://img.icons8.com/color/30/000000/c-sharp-logo.png)![Python](https://img.icons8.com/color/30/000000/python.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)!![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
-<!-- markdownlint-enable MD033 -->
-
----
-
-*** ⚡ GitHub Stats ***
+### ⚡ GitHub Stats
 
 [![Arvin Medina's Github Stats](https://github-readme-stats.vercel.app/api?username=arviinm)](https://github.com/arviinm/github-readme-stats)
 
-<!-- markdownlint-enable MD033 -->
-
 ---
 
-💻 Made with 💙 and ☕ by **Arvin Medina**
+💻 Made with 💙 and ☕ by **[Arvin Medina](https://arvinrhen.me)**
