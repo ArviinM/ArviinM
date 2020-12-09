@@ -9,7 +9,6 @@ I'm a 2nd-Year BSIT College Student at STI College Philippines - Aim High! ✊
 - ☕ Coffee lover, turning it into code!
 - 🏆 2021 Goals: Contribute and publish more repositories and projects!
 - 🥇 Code Fest Champion - Tagisan ng Talino 2020 Local Level
-- 🌐 My [Personal Website](https://arvinrhen.me)
 - 🎯 Learning is the will of thy self.
 
 ---
