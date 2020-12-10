@@ -2,7 +2,7 @@
 
 I'm a 2nd-Year BSIT College Student at STI College Philippines - Aim High! ✊
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arvinr_) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC--8eSflIklGOQgXvvvC3CQ)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arvinr_) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC--8eSflIklGOQgXvvvC3CQ)[![Arvin Medina's DEV Profile](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/arviinm)
 
 - 🌱 I'm currently learning Ethical Hacking.
 - 📸 I'm also a Photographer as a hobby.
