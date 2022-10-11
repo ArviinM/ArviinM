@@ -1,6 +1,6 @@
 # Hi, I'm Arvin Medina ☕💻💙
 
-I'm an incoming 4th year BSIT College Student at STI College Philippines - Aim High! ✊
+I'm a 4th year BSIT College Student at STI College Philippines - Aim High! ✊
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vin_arvs) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC--8eSflIklGOQgXvvvC3CQ) [![Arvin Medina's DEV Profile](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/arviinm)
 
