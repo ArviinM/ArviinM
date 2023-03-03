@@ -2,7 +2,7 @@
 
 I'm a currently an Intern at Philcore System Solutions Inc and a 4th year BSIT College Student at STI College Philippines - Aim High! ✊
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vin_arvs) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC--8eSflIklGOQgXvvvC3CQ) [![Arvin Medina's DEV Profile](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/arviinm)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arvin-rhen-medina-662b601b2/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC--8eSflIklGOQgXvvvC3CQ) [![Arvin Medina's DEV Profile](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/arviinm)
 
 - 🌱 I'm currently learning React Typescript, and building my portfolio!
 - 📸 I'm also a Photographer as a hobby.
