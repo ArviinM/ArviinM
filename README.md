@@ -1,6 +1,6 @@
 # Hi, I'm Arvin Medina ☕💻💙
 
-I'm currently looking for a job and a graduating BSIT College Student at STI College Philippines - Aim High! ✊
+I'm now working! ✊
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arvin-rhen-medina-662b601b2/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC--8eSflIklGOQgXvvvC3CQ) [![Arvin Medina's DEV Profile](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/arviinm)
 
