@@ -4,10 +4,10 @@ I'm a full-stack developer! ✊
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arvin-rhen-medina-662b601b2/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC--8eSflIklGOQgXvvvC3CQ) [![Arvin Medina's DEV Profile](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/arviinm)
 
-- 🌱 I'm currently building a Linnea Care! 🩺
+- 🌱 I'm working on something super big!! 🩺
 - 📸 I'm also a Photographer as a hobby.
 - ☕ Coffee lover, turning caffeine into code!
-- 🏆 2024 Goals: Contribute and publish more repositories and projects!
+- 🏆 2025 Goals: Have a work life balance lol!
 - 🥇 Code Fest Champion - Tagisan ng Talino 2020 Local Level
 - 🥇 Best in Information Technology Project [Aeternus: Cemetery Mapping Information System](https://aeternus-frontend.onrender.com/) - STI College Fair 2023
 - 🎯 Learning is the will of thy self.
